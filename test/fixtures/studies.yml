@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  brief_title: MyString
+  study_type: MyString
+  phase: MyString
+
+two:
+  brief_title: MyString
+  study_type: MyString
+  phase: MyString
